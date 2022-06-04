@@ -1,10 +1,10 @@
-#Vera Gorlova
-##Contacts:
+# Vera Gorlova
+## Contacts:
         Phone: 89628008464
         Telegram: @verun_4a
-###About me:
+### About me:
         I want to learn in RSSchool
-####Skills:
+#### Skills:
         a little Adobe Photoshop
-#####Language:
+##### Language:
         Russian (native)
