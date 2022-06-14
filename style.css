@@ -57,3 +57,21 @@ list-style: none;
         flex-direction: column;
         justify-content: space-between;
       }
+
+    footer {
+        width: 100%;
+        height:auto;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    footer a {
+    padding: 20px;
+    margin-left: 30px;    
+    }
+
+.rss {
+    width: 20px;
+    margin: 0 auto;
+    padding-left: 100px;
+}
